@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Circuito Sumador Completo con entradas "A", "B" y "Cin". Salidas "S" y "Cout"
 
 ## How to test
 
-Explain how to use your project
+Ingresar datos de entrada para realizar una suma binaria. 
 
 ## External hardware
 
